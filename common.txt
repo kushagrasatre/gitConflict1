@@ -1,2 +1,3 @@
 added alphabets
 updated common
+added numner in number txt
